@@ -35,12 +35,23 @@ npm run dev   # OR open index.html in your browser
 
 ```
 Smart-Grocery-Website/
-│-- src/
-│   │-- components/
-│   │-- pages/
+|-- backend/
 │   │-- assets/
-│   │-- index.html
-│   │-- style.css
+│   │-- components/
+│   │-- context/
+│   │-- modals/
+│   │-- pages/
+│   │-- App.js
+│   │-- index.css
+│   │-- main.js
+│
+|-- client/
+│   |-- src/
+│      │-- components/
+│      │-- pages/
+│      │-- assets/
+│      │-- index.html
+│      │-- style.css
 │-- package.json
 │-- README.md
 ```
